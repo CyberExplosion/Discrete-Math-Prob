@@ -21,5 +21,14 @@
     <ClCompile Include="Proj 2 - Evaluate bitwise Operations.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Proj 3 - Compound Propositions Evaluation -- too simple.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Proj 4 - Fuzzy Logic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Proj 5 - Game of Chomp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
